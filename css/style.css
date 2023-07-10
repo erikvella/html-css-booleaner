@@ -13,6 +13,12 @@ header{background-color: rgb(0, 136, 255); }
   background-image: url(../img/pattern.png);
   background-size: 500px 100;
 }
+#logo { 
+  width: 200px;
+  height: 40px;
+  padding-top: 60px;
+
+}
 h1{
   padding-top: 20px;
 }
@@ -54,7 +60,7 @@ th{
 }
 .azzurtab{background-color: aqua;}
 
-.titolino {
+#titolino {
   color: grey;
 padding-top: 20px;
 }
@@ -68,6 +74,7 @@ padding-top: 20px;
 }
 
 #grafico {
+  color: aliceblue;
    padding-top: 40px;
    padding-left: 40px;
    background-image: url(../img/graph.jpg);
