@@ -13,7 +13,9 @@ header{background-color: rgb(0, 136, 255); }
   background-image: url(../img/pattern.png);
   background-size: 500px 100;
 }
-
+h1{
+  padding-top: 20px;
+}
 #divgrigio { 
   color: grey;
 }
@@ -32,3 +34,42 @@ header{background-color: rgb(0, 136, 255); }
 .container{
   padding-left: 22px;
 }
+ul {
+  padding-left: 20px;
+  padding-top: 30px;
+}
+#paragrafone {
+  padding-top: 20px;
+}
+table {
+  padding-top: 30px;
+  width: 1600px;px;
+  table-layout: fixed;
+}
+th{
+  color: aliceblue;
+}
+.bluetab {
+  background-color: blue;
+}
+.azzurtab{background-color: aqua;}
+
+.titolino {
+  color: grey;
+padding-top: 20px;
+}
+
+#monitor{
+ color: aliceblue;
+  padding-top: 40px;
+  padding-left: 40px;
+  background-image: url(../img/monitor.jpg);
+  background-repeat: no-repeat;
+}
+
+#grafico {
+   padding-top: 40px;
+   padding-left: 40px;
+   background-image: url(../img/graph.jpg);
+   background-repeat: no-repeat;
+  }
