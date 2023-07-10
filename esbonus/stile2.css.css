@@ -3,7 +3,8 @@
   margin: 0;
   padding: 0;
 }
-
+body {padding-left: 2%;
+padding-right: 2%;}
 
 /* stili particolari */
 header{background-color: rgb(0, 136, 255); }

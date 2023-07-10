@@ -6,6 +6,8 @@
 
 
 /* stili particolari */
+
+/* stili riguardo l'header */
 header{background-color: rgb(0, 136, 255); }
 #boxhead {
   width: 1000px;
@@ -18,10 +20,11 @@ header{background-color: rgb(0, 136, 255); }
   width: 200px;
   height: 40px;
   padding-top: 40px;
-
 }
+
+/* stili del primo paragrafo */
 h1{
-  padding-top: 20px;
+  padding-top: 10px;
 }
 #divgrigio { 
   color: grey;
@@ -47,9 +50,11 @@ ul {
 }
 #paragrafone {
   padding-top: 20px;
+  /* qui ci sono gli stili per la tabella */
+
 }
 table {
-  padding-top: 30px;
+  padding-top: 20px;
   width: 1600px;
   table-layout: fixed;
   border-spacing: 0px;
@@ -61,6 +66,9 @@ th{
   background-color: blue;
 }
 .azzurtab{background-color: aqua;}
+
+/* qui finiscono gli stili per lla tabella */
+
 
 #titolino {
   color: grey;
